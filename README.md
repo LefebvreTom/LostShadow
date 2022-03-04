@@ -27,9 +27,14 @@ The levels are based on the same overall theme and split into two distinct aspec
 
 
 ## Trailer :
-https://youtu.be/21lRS5Ttgms.mp4
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/21lRS5Ttgms/0.jpg)](https://www.youtube.com/watch?v=21lRS5Ttgms)
+##### Link : https://youtu.be/21lRS5Ttgms.mp4
 
-December 2021, UQAC, CA*
+
+## Credit :
+Created by : DEBEAULIEU Nicolas, CHEVALLEREAU Aurélien, SEGALEN Florent, LEFEBVRE Tom
+
+December 2021, UQAC, CA
 
 > Made with *Unity Version 2021.1.20f1* \
 > Plateforms supported : Windows
