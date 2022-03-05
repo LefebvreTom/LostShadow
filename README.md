@@ -1,5 +1,5 @@
 # LostShadow
-Project of a game, a 2D adventure game
+Project of a 2D adventure game
 
   ![image](https://user-images.githubusercontent.com/80623426/156792590-959bc222-f401-470a-9039-68c7e244e23f.png)
 
